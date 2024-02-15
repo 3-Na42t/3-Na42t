@@ -23,6 +23,7 @@
 <a href="https://linkedin.com/in/abdelrahman-nashaat-b58628282" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Nashaat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/A95Nm" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Nashaat-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://www.facebook.com/3.Na42T?mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Nashaat-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://https://x.com/3_Na42T?t=P_jJ5RxMqN-_PPIN2ggzxA&s=09/)
 
 
 
