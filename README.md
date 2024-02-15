@@ -20,10 +20,11 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/abdelrahman-nashaat-b58628282" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Nashaat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/A95Nm" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Nashaat-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/3.Na42T?mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Nashaat-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/3_Na42T?t=P_jJ5RxMqN-_PPIN2ggzxA&s=09/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-nashaat-b58628282)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/A95Nm)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3bdelrahman_na42t?igshid=MzMyNGUyNmU2YQ==) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/3.Na42T)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/3_Na42T) 
 
 
 
